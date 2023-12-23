@@ -1,4 +1,3 @@
-// src/Todo.js
 import { useState } from "react";
 import "./Todo.css";
 
